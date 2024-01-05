@@ -29,12 +29,38 @@
   </a>
 </p>
 
-### Cybersecurity
+<h3 align="left">Cyber Security:</h3>
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23313131.svg?style=flat-square&logo=kali-linux&logoColor=green)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23990000.svg?style=flat-square&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%235C2D91.svg?style=flat-square&logo=metasploit&logoColor=green)
-![SQLMap](https://img.shields.io/badge/SQLMap-%23D00000.svg?style=flat-square&logo=sqlmap&logoColor=white)
+<p align="left">
+  <!-- Kali Linux -->
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="40" height="40"/>
+    <br/>
+    Kali Linux
+  </a>
+  
+  <!-- Metasploit -->
+  <a href="https://metasploit.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/>
+    <br/>
+    Metasploit
+  </a>
+  
+  <!-- Burp Suite -->
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/burpzone/burpzone-icon.svg" alt="burpsuite" width="40" height="40"/>
+    <br/>
+    Burp Suite
+  </a>
+  
+  <!-- SQLMap -->
+  <a href="http://sqlmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlmap/sqlmap-icon.svg" alt="sqlmap" width="40" height="40"/>
+    <br/>
+    SQLMap
+  </a>
+</p>
+
 
 ## GitHub Stats
 
