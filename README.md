@@ -27,9 +27,9 @@
 ### Cybersecurity
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23313131.svg?style=flat-square&logo=kali-linux&logoColor=green)
-![Wireshark](https://img.shields.io/badge/Wireshark-%23121011.svg?style=flat-square&logo=wireshark&logoColor=green)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23990000.svg?style=flat-square&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%235C2D91.svg?style=flat-square&logo=metasploit&logoColor=green)
-![Nmap](https://img.shields.io/badge/Nmap-%#7D8C8D.svg?style=flat-square&logo=nmap&logoColor=green)
+![SQLMap](https://img.shields.io/badge/SQLMap-%23D00000.svg?style=flat-square&logo=sqlmap&logoColor=white)
 
 ## GitHub Stats
 
