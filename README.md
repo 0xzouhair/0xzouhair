@@ -29,38 +29,6 @@
   </a>
 </p>
 
-<h3 align="left">Cyber Security:</h3>
-
-<p align="left">
-  <!-- Kali Linux -->
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="40" height="40"/>
-    <br/>
-    Kali Linux
-  </a>
-  
-  <!-- Metasploit -->
-  <a href="https://metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/>
-    <br/>
-    Metasploit
-  </a>
-  
-  <!-- Burp Suite -->
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/burpzone/burpzone-icon.svg" alt="burpsuite" width="40" height="40"/>
-    <br/>
-    Burp Suite
-  </a>
-  
-  <!-- SQLMap -->
-  <a href="http://sqlmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlmap/sqlmap-icon.svg" alt="sqlmap" width="40" height="40"/>
-    <br/>
-    SQLMap
-  </a>
-</p>
-
 
 ## GitHub Stats
 
@@ -73,5 +41,9 @@
 - [Project Name 1](https://github.com/0xzouhair/kali-apk-bind-fix)
 - [Project Name 2](https://github.com/0xzouhair/project2)
 - [Project Name 3](https://github.com/0xzouhair/project3)
+
+| My THM account |
+| --- | --- |
+| ![THM Badge](https://tryhackme-badges.s3.amazonaws.com/zouhaircarter.png) |
 
 Feel free to explore my repositories and don't hesitate to connect!
