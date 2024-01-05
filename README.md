@@ -2,9 +2,7 @@
 
 ## About Me
 
-- 🎓 Computer Science student
 - 👾 I’m interested in cyber security and bug hunting
-- 💼 Currently exploring career opportunities in cybersecurity
 - 📫 How to reach me: [instagram](https://www.instagram.com/0x_zouhair/) 
 
 ## Technologies & Tools
