@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 Computer Science student
-- 👾 I’m interested in cyber security
+- 👾 I’m interested in cyber security and bug hunting
 - 💼 Currently exploring career opportunities in cybersecurity
 - 📫 How to reach me: [instagram](https://www.instagram.com/0x_zouhair/) 
 
@@ -13,7 +13,7 @@
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-%232c3e50.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&ogoColor=white)
 
 ### Tools & Frameworks
