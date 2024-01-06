@@ -27,6 +27,13 @@
   </a>
 </p>
 
+### Cybersecurity
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23313131.svg?style=flat-square&logo=kali-linux&logoColor=green)
+![Metasploit](https://img.shields.io/badge/Metasploit-%235C2D91.svg?style=flat-square&logo=metasploit&logoColor=green)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23990000.svg?style=flat-square&logo=burp-suite&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-%23D00000.svg?style=flat-square&logo=sqlmap&logoColor=white)
+
 
 ## GitHub Stats
 
