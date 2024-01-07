@@ -55,7 +55,7 @@
 ## Recent Projects
 
 - [Project Name 1](https://github.com/0xzouhair/kali-apk-bind-fix)
-- [Project Name 2](https://github.com/0xzouhair/project2)
+- [Project Name 2](https://github.com/0xzouhair/meow)
 - [Project Name 3](https://github.com/0xzouhair/project3)
 
 | My THM account |
