@@ -58,9 +58,8 @@
 - [Project Name 2](https://github.com/0xzouhair/meow)
 - [Project Name 3](https://github.com/0xzouhair/project3)
 
-| My THM account |
-| --- |
-| ![THM Badge](https://tryhackme-badges.s3.amazonaws.com/zouhaircarter.png) |
+## My THM account
+ ![THM Badge](https://tryhackme-badges.s3.amazonaws.com/zouhaircarter.png)
 
 Feel free to explore my repositories and don't hesitate to connect!
 
