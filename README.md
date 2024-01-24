@@ -25,8 +25,6 @@
   </a>
 </p>
 
-<h3 align="left">Cybersecurity:</h3>
-
 <p align="left">
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burpsuite" width="40" height="40"/>
