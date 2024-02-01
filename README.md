@@ -46,15 +46,7 @@
 
 ## GitHub Stats
 
-![Zouhair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xzouhair&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xzouhair&layout=compact&hide_border=true&theme=radical)
-
-## Recent Projects
-
-- [Project Name 1](https://github.com/0xzouhair/kali-apk-bind-fix)
-- [Project Name 2](https://github.com/0xzouhair/meow)
-- [Project Name 3](https://github.com/0xzouhair/project3)
 
 ## My THM account
 
