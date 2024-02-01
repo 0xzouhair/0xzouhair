@@ -58,7 +58,6 @@
 
 ## My THM account
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/zouhaircarter.png" alt="TryHackMe">
 
 Feel free to explore my repositories and don't hesitate to connect!
 
