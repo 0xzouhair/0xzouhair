@@ -3,7 +3,6 @@
 ## About Me
 
 - 👾 I’m interested in cyber security and bug hunting
-- 📫 How to reach me: [instagram](https://www.instagram.com/zouhair_bitar/) 
 
 <h3 align="left">Languages and Tools:</h3>
 
